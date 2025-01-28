@@ -71,9 +71,9 @@ function App() {
         <>
             <div>
                 {response && <span>{response}</span>}
-                {/* <div className="ModelCont">
+                <div className="ModelCont">
 					<ThreeScene />
-				</div> */}
+				</div> 
                 <br />
                 <input
                     type="text"
